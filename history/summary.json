@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 165,
-    "timeWeek": 120,
-    "timeMonth": 108,
-    "timeYear": 103,
+    "time": 102,
+    "timeDay": 132,
+    "timeWeek": 114,
+    "timeMonth": 107,
+    "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-09-02": 0
+      "2025-09-02": 24
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/utims.urp-ai.co.kr.ico",
     "slug": "u-ti-ms",
     "status": "down",
-    "uptime": "96.26%",
+    "uptime": "96.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.77%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "96.26%",
+    "uptimeWeek": "77.53%",
+    "uptimeMonth": "94.83%",
+    "uptimeYear": "96.22%",
     "time": 877,
     "timeDay": 0,
     "timeWeek": 667,
     "timeMonth": 701,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-09-02": 980,
+      "2025-09-02": 1004,
       "2025-09-01": 1261
     }
   },
