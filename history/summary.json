@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 93,
-    "timeWeek": 109,
+    "time": 99,
+    "timeDay": 81,
+    "timeWeek": 102,
     "timeMonth": 104,
-    "timeYear": 100,
+    "timeYear": 99,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/utims.urp-ai.co.kr.ico",
     "slug": "u-ti-ms",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.76%",
+    "uptimeDay": "8.49%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "97.76%",
     "time": 877,
-    "timeDay": 582,
-    "timeWeek": 672,
-    "timeMonth": 705,
+    "timeDay": 0,
+    "timeWeek": 667,
+    "timeMonth": 701,
     "timeYear": 877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 57,
+      "2025-09-01": 1261
+    }
   },
   {
     "name": "Test Broken Site",
