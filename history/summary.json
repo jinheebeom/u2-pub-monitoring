@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 106,
     "timeDay": 160,
-    "timeWeek": 130,
-    "timeMonth": 113,
+    "timeWeek": 121,
+    "timeMonth": 109,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2025-09-02": 37
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/utims.urp-ai.co.kr.ico",
     "slug": "u-ti-ms",
     "status": "down",
-    "uptime": "95.96%",
+    "uptime": "95.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.92%",
-    "uptimeMonth": "94.46%",
-    "uptimeYear": "95.96%",
+    "uptimeWeek": "72.68%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "95.44%",
     "time": 877,
     "timeDay": 0,
-    "timeWeek": 667,
-    "timeMonth": 701,
+    "timeWeek": 663,
+    "timeMonth": 702,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-09-02": 1167,
+      "2025-09-03": 54,
+      "2025-09-02": 1440,
       "2025-09-01": 1261
     }
   },
